@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "data": "is your subject related to control signals?",
+  "right": {
+    "id": 3,
+    "data": "is your subject math related?",
+    "right": {
+      "id": 5,
+      "data": "advanced programming",
+      "is_question": false
+    },
+    "left": {
+      "id": 4,
+      "data": "calc 1",
+      "is_question": false
+    },
+    "is_question": true
+  },
+  "left": {
+    "id": 2,
+    "data": "signals and systems",
+    "is_question": false
+  },
+  "is_question": true
+}
